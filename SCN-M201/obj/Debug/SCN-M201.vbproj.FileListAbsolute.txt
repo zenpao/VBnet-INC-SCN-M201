@@ -1,0 +1,15 @@
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\bin\Debug\SCN-M201.exe.config
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\bin\Debug\SCN-M201.exe
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\bin\Debug\SCN-M201.pdb
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\bin\Debug\SCN-M201.xml
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\obj\Debug\SCN_M201.frmHome.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\obj\Debug\SCN_M201.Resources.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\obj\Debug\SCN-M201.vbproj.GenerateResource.Cache
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\obj\Debug\SCN-M201.exe
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\obj\Debug\SCN-M201.xml
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\obj\Debug\SCN-M201.pdb
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\obj\Debug\SCN_M201.frmView.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\obj\Debug\SCN_M201.frmMod.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\obj\Debug\SCN-M201.vbproj.ResolveComReference.cache
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\obj\Debug\SCN_M201.frmExport.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\SCN-M201\SCN-M201\obj\Debug\SCN_M201.frmAbout.resources
