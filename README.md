@@ -96,4 +96,4 @@ VBnet-INC-SCN-M201/
 
 ## License
 
-Not specified.
+Apache License 2.0
